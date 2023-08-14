@@ -10,3 +10,4 @@
 - R
 - Data viz
 - stat
+https://www.linkedin.com/in/sarunjade/
